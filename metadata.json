@@ -1,0 +1,8 @@
+{
+  "name": "El Hechizo de las Notas Perdidas",
+  "description": "Un juego tipo Road Fighter donde una niña música debe recuperar sus notas sagradas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

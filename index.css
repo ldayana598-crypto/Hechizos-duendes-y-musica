@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700;900&family=Fondamento:ital@0;1&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --animate-bounce-slow: bounce 3s infinite;
+  --animate-float: float 4s ease-in-out infinite;
+  --font-fantasy: "Cinzel Decorative", serif;
+  --font-hand: "Fondamento", cursive;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0) rotate(0); }
+  50% { transform: translateY(-20px) rotate(2deg); }
+}

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700.82 1008.16">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700.82 1008.16">
   <defs>
     <style>
       .cls-1 {
@@ -27,7 +27,7 @@
       }
     </style>
   </defs>
-  <g id="Capa_1-2" data-name="Capa 1">
+  <g>
     <g>
       <path class="cls-5" d="M665.64,444.61s-13.74-20.02,35.18-40.8c0,0-5.74,39.26-35.18,40.8Z"/>
       <g>
